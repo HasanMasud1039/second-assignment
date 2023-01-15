@@ -344,8 +344,8 @@ footer{
     }
     .feature-details{
         /* margin: auto; */
-        text-align: left;
-        padding-left: 30px;
+        text-align: start;
+        padding-left: 70px;
     }
     /* Features you will love and enjoy */
     .loved-features{
@@ -357,6 +357,9 @@ footer{
         justify-content: center;
         align-items: center;
         margin:auto;
+    }
+    .vl{
+        left: -190px;
     }
     .loved-photo{
         margin-left: 100px;
