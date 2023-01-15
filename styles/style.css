@@ -228,6 +228,7 @@ button{
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 130px;
+    margin-right: 10px;
 }
 
 /* Footer */
